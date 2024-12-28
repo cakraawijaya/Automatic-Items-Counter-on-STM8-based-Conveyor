@@ -186,34 +186,52 @@ void loop() {
 ## Pengaturan ST-Link/V2
 <img width="840" src="Assets/Documentation/Experiment/ST-Link Configuration.jpg" alt="stlink-configuration"><br><br>
 
-<strong>Catatan :</strong>
-
-   <table><tr><td width="840">
-
-   • Modul antarmuka kabel tunggal atau ``` SWIM ``` pada dasarnya digunakan untuk berkomunikasi dengan board ``` STM8 ```.
+<blockquote>
+   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Catatan</h3>
+   <ul>
+   <li>
    
-   • Pemasangan kabel antara ``` ST-Link/V2 ``` dengan board ``` STM8 ``` dapat anda lihat selengkapnya pada gambar di atas.
+   Modul antarmuka kabel tunggal atau ``` SWIM ``` pada dasarnya digunakan untuk berkomunikasi dengan board ``` STM8 ```.
 
-   • Berdasarkan pengalaman pribadi, ``` STM8 ``` hanya dapat diprogram dengan ``` ST-Link ```.
-
-   </td></tr></table><br>
+   </li>
+   <li>
+   
+   Pemasangan kabel antara ``` ST-Link/V2 ``` dengan board ``` STM8 ``` dapat anda lihat selengkapnya pada gambar di atas.
+   
+   </li>
+   <li>
+   
+   Berdasarkan pengalaman pribadi, ``` STM8 ``` hanya dapat diprogram dengan ``` ST-Link ```.
+   
+   </li>
+   </ul>
+</blockquote>
 
 <br><br>
 
 ## Pengaturan USB FTDI
 <img width="840" src="Assets/Documentation/Experiment/FTDI Configuration.jpg" alt="ftdi-configuration"><br><br>
 
-<strong>Catatan :</strong>
-
-   <table><tr><td width="840">
-
-   • Komunikasi serial pada board ``` STM8 ``` ini sangat dimungkinkan terjadi, terutama untuk keperluan ``` Serial Monitor ``` dan ``` Serial Plotter ```. Alat yang dapat dipakai untuk komunikasi serial antara lain: ``` USB CP2102 ```, ``` USB CH340 ```, ``` USB FTDI ```, atau dengan ``` USB PL2303 ```.
+<blockquote>
+   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Catatan</h3>
+   <ul>
+   <li>
    
-   • Pemasangan kabel antara ``` USB FTDI ``` dengan board ``` STM8 ``` dapat anda lihat detailnya pada gambar di atas.
+   Komunikasi serial pada board ``` STM8 ``` ini sangat dimungkinkan terjadi, terutama untuk keperluan ``` Serial Monitor ``` dan ``` Serial Plotter ```. Alat yang dapat dipakai untuk komunikasi serial antara lain: ``` USB CP2102 ```, ``` USB CH340 ```, ``` USB FTDI ```, atau dengan ``` USB PL2303 ```.
 
-   • Berdasarkan pengalaman, saya akui bahwa penggunaan ``` USB FTDI ``` atau ``` USB CP2102 ``` itu jauh lebih baik daripada ``` USB PL2303 ``` maupun ``` USB CH340 ``` karena diketahui kinerjanya lebih stabil.
-
-   </td></tr></table><br>
+   </li>
+   <li>
+   
+   Pemasangan kabel antara ``` USB FTDI ``` dengan board ``` STM8 ``` dapat anda lihat detailnya pada gambar di atas.
+   
+   </li>
+   <li>
+   
+   Berdasarkan pengalaman, saya akui bahwa penggunaan ``` USB FTDI ``` atau ``` USB CP2102 ``` itu jauh lebih baik daripada ``` USB PL2303 ``` maupun ``` USB CH340 ``` karena diketahui kinerjanya lebih stabil.
+   
+   </li>
+   </ul>
+</blockquote>
 
 <br><br>
 

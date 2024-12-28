@@ -186,34 +186,52 @@ void loop() {
 ## ST-Link/V2 Setup
 <img width="840" src="Assets/Documentation/Experiment/ST-Link Configuration.jpg" alt="stlink-configuration"><br><br>
 
-<strong>Notes:</strong>
-
-   <table><tr><td width="840">
-
-   • The single wire interface module or ``` SWIM ``` is basically used to communicate with the ``` STM8 ``` board.
+<blockquote>
+   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Notes</h3>
+   <ul>
+   <li>
    
-   • You can see the wiring between the ``` ST-Link/V2 ``` and the ``` STM8 ``` board in detail in the picture above.
+   The single wire interface module or ``` SWIM ``` is basically used to communicate with the ``` STM8 ``` board.
 
-   • Based on personal experience, the ``` STM8 ``` can only be programmed with ``` ST-Link ```.
-
-   </td></tr></table>
+   </li>
+   <li>
+   
+   You can see the wiring between the ``` ST-Link/V2 ``` and the ``` STM8 ``` board in detail in the picture above.
+   
+   </li>
+   <li>
+   
+   Based on personal experience, the ``` STM8 ``` can only be programmed with ``` ST-Link ```.
+   
+   </li>
+   </ul>
+</blockquote>
 
 <br><br>
 
 ## FTDI USB Setup
 <img width="840" src="Assets/Documentation/Experiment/FTDI Configuration.jpg" alt="ftdi-configuration"><br><br>
 
-<strong>Notes:</strong>
-
-   <table><tr><td width="840">
-
-   • Serial communication on this ``` STM8 ``` board is very possible, especially for ``` Serial Monitor ``` and ``` Serial Plotter ``` purposes. Tools that can be used for serial communication include: ``` CP2102 USB ```, ``` CH340 USB ```, ``` FTDI USB ```, or with ``` PL2303 USB ```.
-
-   • You can see the wiring between the ``` FTDI USB ``` and the ``` STM8 ``` board in detail in the picture above.
-
-   • Based on experience, I admit that using ``` FTDI USB ``` or ``` CP2102 USB ``` is much better than ``` PL2303 USB ``` or ``` CH340 USB ``` because they are known to be more stable in performance.
+<blockquote>
+   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Notes</h3>
+   <ul>
+   <li>
    
-   </td></tr></table>
+   Serial communication on this ``` STM8 ``` board is very possible, especially for ``` Serial Monitor ``` and ``` Serial Plotter ``` purposes. Tools that can be used for serial communication include: ``` CP2102 USB ```, ``` CH340 USB ```, ``` FTDI USB ```, or with ``` PL2303 USB ```.
+
+   </li>
+   <li>
+   
+   You can see the wiring between the ``` FTDI USB ``` and the ``` STM8 ``` board in detail in the picture above.
+   
+   </li>
+   <li>
+   
+   Based on experience, I admit that using ``` FTDI USB ``` or ``` CP2102 USB ``` is much better than ``` PL2303 USB ``` or ``` CH340 USB ``` because they are known to be more stable in performance.
+   
+   </li>
+   </ul>
+</blockquote>
 
 <br><br>
 
