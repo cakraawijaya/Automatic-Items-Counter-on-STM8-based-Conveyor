@@ -42,7 +42,7 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/STLink_USB_Driver
+   https://bit.ly/STLink_USBdriver
    ```
 
    </td></tr></table><br>
@@ -52,7 +52,7 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/CDM_FTDI_USB_Driver
+   https://bit.ly/CDM_FTDI_USBdriver
    ```
 
    </td></tr></table>
