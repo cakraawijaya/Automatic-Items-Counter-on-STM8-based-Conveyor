@@ -42,7 +42,7 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/STLink_USB_Driver
+   https://bit.ly/STLink_USBdriver
    ```
 
    </td></tr></table><br>
@@ -52,7 +52,7 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/CDM_FTDI_USB_Driver
+   https://bit.ly/CDM_FTDI_USBdriver
    ```
 
    </td></tr></table>
