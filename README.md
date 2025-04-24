@@ -264,15 +264,17 @@ The write protection on the ``` STM8 ``` can be removed through several steps, a
 <br><br>
 
 ## Get Started
-1. Download and extract this repository.<br><br>
-   
-2. Make sure you have the necessary electronic components.<br><br>
-   
-3. Make sure your components are designed according to the diagram.<br><br>
-   
-4. Configure your device according to the settings above.<br><br>
+1. I suggest working on the Conveyor project first as in the following link: <a href="https://github.com/cakraawijaya/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method"><u>Click Here</u></a>.<br><br>
 
-5. Please enjoy [Done].
+2. Download and extract this repository.<br><br>
+   
+3. Make sure you have the necessary electronic components.<br><br>
+   
+4. Make sure your components are designed according to the diagram.<br><br>
+   
+5. Configure your device according to the settings above.<br><br>
+
+6. Please enjoy [Done].
 
 <br><br>
 
