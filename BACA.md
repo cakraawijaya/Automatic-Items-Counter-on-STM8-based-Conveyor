@@ -264,15 +264,17 @@ Proteksi penulisan pada ``` STM8 ``` dapat dihilangkan melalui beberapa tahapan,
 <br><br>
 
 ## Memulai
-1. Unduh dan ekstrak repositori ini.<br><br>
-   
-2. Pastikan anda memiliki komponen elektronik yang diperlukan.<br><br>
-   
-3. Pastikan komponen anda telah dirancang sesuai dengan diagram.<br><br>
-    
-4. Konfigurasikan perangkat anda menurut pengaturan di atas.<br><br>
+1. Saya sarankan untuk mengerjakan proyek Conveyor terlebih dahulu seperti pada tautan berikut: <a href="https://github.com/cakraawijaya/Arduino-Pro-Mini-based-Conveyor-Motor-Speed-Control-System-using-PWM-Method"><u>Klik Disini</u></a>.<br><br>
 
-5. Selamat menikmati [Selesai].
+2. Unduh dan ekstrak repositori ini.<br><br>
+   
+3. Pastikan anda memiliki komponen elektronik yang diperlukan.<br><br>
+   
+4. Pastikan komponen anda telah dirancang sesuai dengan diagram.<br><br>
+    
+5. Konfigurasikan perangkat anda menurut pengaturan di atas.<br><br>
+
+6. Selamat menikmati [Selesai].
 
 <br><br>
 
