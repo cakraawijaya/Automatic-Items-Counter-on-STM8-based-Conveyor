@@ -22,7 +22,7 @@ Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusi
 | Pustaka Arduino | LiquidCrystal_I2C (bawaan) |
 | Sensor | • Modul Sensor LDR (x1)<br>• KY-008: Modul Pemancar Laser 5V (x1) |
 | Layar | LCD I2C (x1) |
-| Komponen Lainnya | • Kabel USB Mikro - USB tipe A (x1)<br>• Kabel USB Mini - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1)<br>• Tombol tekan 12 x 12 mm |
+| Komponen Lainnya | • Kabel USB Mikro - USB tipe A (x1)<br>• Kabel USB Mini - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1)<br>• Tombol tekan 12 x 12 mm (x1) |
 
 <br><br>
 
