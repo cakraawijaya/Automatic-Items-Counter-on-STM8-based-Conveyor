@@ -22,7 +22,7 @@ Automatic items counter is a fast and precise tool for humans to get the sum of 
 | Arduino Library | LiquidCrystal_I2C (default) |
 | Sensor | • LDR Sensor Module (x1)<br>• KY-008: Laser Transmitter Module 5V (x1) |
 | Display | LCD I2C (x1) |
-| Other Components | • Micro USB cable - USB type A (x1)<br>• Mini USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1)<br>• Push button 12 x 12 mm |
+| Other Components | • Micro USB cable - USB type A (x1)<br>• Mini USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Adaptor DC 5V (x1)<br>• Breadboard (x1)<br>• Push button 12 x 12 mm (x1) |
 
 <br><br>
 
