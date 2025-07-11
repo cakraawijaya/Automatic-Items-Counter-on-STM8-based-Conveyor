@@ -158,7 +158,7 @@ void loop() {
       How to setup the ``` STM8S103F3P6 ``` board
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
 
       • Click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` Sduino STM8 plain C core (non-C++) ```.
 
