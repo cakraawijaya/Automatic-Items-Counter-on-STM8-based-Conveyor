@@ -158,7 +158,7 @@ void loop() {
       Cara mengatur board ``` STM8S103F3P6 ```
    
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
 
       • Klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` Sduino STM8 plain C core (non-C++) ```.
 
