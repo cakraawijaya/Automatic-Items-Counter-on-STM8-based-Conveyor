@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-STM8-light.svg?style=flat&logo=STMicroelectronics&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Automatic-Items-Counter-on-STM8-based-Conveyor
+# Automatic Items Counter on STM8-based Conveyor
 Penghitung barang otomatis merupakan alat bantu yang cepat dan tepat bagi manusia untuk mendapatkan hasil penjumlahan barang. Tujuan diadakannya proyek ini adalah untuk memberikan edukasi kepada masyarakat luas tentang bagaimana cara membuat alat penghitung barang otomatis yang sederhana. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 2 minggu. Sistem ini dibuat untuk digunakan sebagai pelengkap pada konveyor. Selain itu, sistem ini juga telah disediakan fitur display dan reset untuk kebutuhan penggunanya. Cara kerja dari sistem ini yaitu apabila barang yang diangkut oleh konveyor itu berada tepat di depan pancaran sinar laser, maka intensitas cahaya yang diterima oleh sensor LDR itu rendah, sehingga dianggap ada barang dan mulai dihitung. Adapun hasil penghitungannya akan ditampilkan pada layar LCD. Proyek ini akan berguna bagi para pelaku bisnis, karena dapat meningkatkan efisiensi dalam produksi. Hasil penelitian menunjukkan bahwa sistem yang dibuat ini dapat berfungsi dengan baik.
 
 <br><br>
