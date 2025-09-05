@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-STM8-light.svg?style=flat&logo=STMicroelectronics&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Automatic-Items-Counter-on-STM8-based-Conveyor
+# Automatic Items Counter on STM8-based Conveyor
 Automatic items counter is a fast and precise tool for humans to get the sum of items. The purpose of this project is to provide education to the wider community on how to make a simple automatic item counter. This project has been implemented and took approximately 2 weeks. This system is made to be used as a complement to the conveyor. In addition, this system has also provided display and reset features for the needs of its users. The way this system works is that if the items transported by the conveyor are right in front of the laser beam, the light intensity received by the LDR sensor is low, so it is considered that there are items and starts counting. The calculation results will be displayed on the LCD screen. This project will be useful for business people, because it can increase efficiency in production. The results show that this system can function properly.
 
 <br><br>
